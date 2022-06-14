@@ -1,0 +1,145 @@
+Cici Ho
+Selected Modules:
+IMAT3104 : Database Management and Programming
+IMAT3423 : Systems Building: Methods
+IMAT3428 : Information Technology Services Practice
+IMAT3611 : Computer Ethics and Privacy
+IMAT3613 : Data Mining
+IMAT3614 : Big Data and Business Models
+Reserved Modules:
+CTEC3110 : Secure Web Application Development
+CTEC3410 : Web Application Penetration Testing
+CTEC3606 : Multi-service Networks 2
+CTEC3902 : Rigorous Systems
+CTEC3911 : Mobile Application Development
+Damian Keen
+Selected Modules:
+CTEC3410 : Web Application Penetration Testing
+IMAT3423 : Systems Building: Methods
+IMAT3428 : Information Technology Services Practice
+IMAT3611 : Computer Ethics and Privacy
+IMAT3613 : Data Mining
+IMAT3614 : Big Data and Business Models
+Reserved Modules:
+CTEC3110 : Secure Web Application Development
+CTEC3606 : Multi-service Networks 2
+CTEC3902 : Rigorous Systems
+IMAT3104 : Database Management and Programming
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+Ka Pui Man
+P2523401
+Computer Science
+mankapui1215@gmail.com
+2021-04-29
+Selected Modules:
+IMAT3104 : Database Management and Programming
+IMAT3423 : Systems Building: Methods
+IMAT3428 : Information Technology Services Practice
+IMAT3611 : Computer Ethics and Privacy
+IMAT3613 : Data Mining
+IMAT3614 : Big Data and Business Models
+Reserved Modules:
+CTEC3110 : Secure Web Application Development
+CTEC3410 : Web Application Penetration Testing
+CTEC3606 : Multi-service Networks 2
+CTEC3902 : Rigorous Systems
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+
+
+Test Test
+P1234567
+Software Engineering
+testemail
+2021-04-29
+Selected Modules:
+CTEC3110 : Secure Web Application Development
+CTEC3410 : Web Application Penetration Testing
+CTEC3902 : Rigorous Systems
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+IMAT3423 : Systems Building: Methods
+IMAT3614 : Big Data and Business Models
+Reserved Modules:
+CTEC3606 : Multi-service Networks 2
+CTEC3904 : Functional Software Development
+IMAT3611 : Computer Ethics and Privacy
+IMAT3613 : Data Mining
+
+
+Anthony Test
+P1234567
+Software Engineering
+tstemail
+2021-05-02
+Selected Modules:
+CTEC3110 : Secure Web Application Development
+CTEC3902 : Rigorous Systems
+IMAT3104 : Database Management and Programming
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+IMAT3423 : Systems Building: Methods
+IMAT3614 : Big Data and Business Models
+Reserved Modules:
+CTEC3410 : Web Application Penetration Testing
+CTEC3605 : Multi-service Networks 1
+CTEC3606 : Multi-service Networks 2
+CTEC3911 : Mobile Application Development
+
+
+Ka Pui Man
+P2523401
+Computer Science
+tstemail
+2021-05-03
+Selected Modules:
+IMAT3104 : Database Management and Programming
+IMAT3423 : Systems Building: Methods
+IMAT3428 : Information Technology Services Practice
+IMAT3611 : Computer Ethics and Privacy
+IMAT3613 : Data Mining
+IMAT3614 : Big Data and Business Models
+Reserved Modules:
+CTEC3110 : Secure Web Application Development
+CTEC3410 : Web Application Penetration Testing
+CTEC3606 : Multi-service Networks 2
+CTEC3902 : Rigorous Systems
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+
+
+Test Test
+P1234567
+Software Engineering
+tstemail
+2021-05-04
+Selected Modules:
+CTEC3902 : Rigorous Systems
+IMAT3104 : Database Management and Programming
+IMAT3423 : Systems Building: Methods
+IMAT3611 : Computer Ethics and Privacy
+IMAT3613 : Data Mining
+IMAT3614 : Big Data and Business Models
+Reserved Modules:
+CTEC3110 : Secure Web Application Development
+CTEC3606 : Multi-service Networks 2
+CTEC3904 : Functional Software Development
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+
+
+test test
+P1234567
+Computer Science
+testemail
+2021-05-04
+Selected Modules:
+IMAT3104 : Database Management and Programming
+IMAT3423 : Systems Building: Methods
+IMAT3428 : Information Technology Services Practice
+IMAT3611 : Computer Ethics and Privacy
+IMAT3613 : Data Mining
+IMAT3614 : Big Data and Business Models
+Reserved Modules:
+CTEC3110 : Secure Web Application Development
+CTEC3410 : Web Application Penetration Testing
+CTEC3606 : Multi-service Networks 2
+CTEC3902 : Rigorous Systems
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+
+
