@@ -29,4 +29,4 @@ an additional 30 credits worth of modules to be chosen in both term 1 and 2.
 In below table overleaf shows all of the avilable module, their credit amount and whether they are
 optional or mandatory for both Computer Science and Software Engineering students.
 
-<img src="images/Table.png" width="80%" align="center">
+<p align="center"><img src="images/Table.png" width="60%"></p>
