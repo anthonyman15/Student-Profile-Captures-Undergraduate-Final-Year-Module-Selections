@@ -29,4 +29,23 @@ an additional 30 credits worth of modules to be chosen in both term 1 and 2.
 In below table overleaf shows all of the avilable module, their credit amount and whether they are
 optional or mandatory for both Computer Science and Software Engineering students.
 
-<p align="center"><img src="images/Table.png" width="60%"></p>
+|Code|Title|Credits|Term|Computer Science|Compulsory|Software Engineering|Compulsory|
+|----|-----|-------|----|----------------|----------|--------------------|----------|
+|IMAT3423|Systems Building: Methods|15|1|x|x|x|x|
+|CTEC3451|Development Project|30|Year Long|x|x|x|x|
+|CTEC3902|Rigorous Systems|15|2|x| |x|x|
+|CTEC3605|Multi-service Networks 1|15|1|x| |x| |
+|CTEC3606|Multi-service Networks 2|15|2|x| |x| |
+|CTEC3110|Secure Web Application Development|15|1|x| |x| |
+|CTEC3410|Web Application Penetration Testing|15|2|x| |x| |
+|CTEC3904|Functional Software Development|15|2|x| |x| |
+|CTEC3905|Front-End Web Development|15|2|x| |x| |
+|CTEC3906|Interaction Design|15|1|x| |x| |
+|CTEC3911|Mobile Application Development|15|1|x| |x| |
+|IMAT3104|Database Management and Programming|15|2|x| |x| |
+|IMAT3611|Computer Ethics and Privacy|15|1|x| |x| |
+|IMAT3406|Fuzzy Logic & Knowledge Based Systems|15|1|x| |x| |
+|IMAT3613|Data Mining|15|1|x| |x| |
+|IMAT3614|Big Data & Business Models|15|2|x| |x| |
+|IMAT3428|Information Technology Services Practice|15|2|x| | | |
+
